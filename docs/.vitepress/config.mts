@@ -25,5 +25,5 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   },
-  base: '/wbw121124\'s_blog_and_docs/'
+  base: '/wbw121124-s_blog_and_docs/'
 })
