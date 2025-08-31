@@ -3,23 +3,12 @@
 layout: home
 
 hero:
-  name: "wbw121124's blog and docs"
-  text: "wbw121124's blog and docs."
-  tagline: My great project tagline
+  name: "wbw121124 的博客与文档"
+  text: "wbw121124 的博客与文档。"
+  tagline: 我的博客与文档
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Markdown 示例
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
