@@ -15,7 +15,7 @@ export default defineConfig({
     sidebar: [],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/wbwdxh/' }
     ]
   },
   base: '/wbw121124-s_blog_and_docs/'
