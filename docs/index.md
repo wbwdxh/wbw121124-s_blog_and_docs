@@ -4,7 +4,6 @@ layout: home
 
 hero:
   name: "wbw121124 的博客与文档"
-  text: "wbw121124 的博客与文档。"
   tagline: 我的博客与文档
   actions:
     - theme: brand
